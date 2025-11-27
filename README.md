@@ -1,2 +1,0 @@
-# Agilebyte
-byte byte agile
